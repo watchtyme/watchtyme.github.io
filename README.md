@@ -4,15 +4,15 @@
 WatchTyme is a login-able live chat system (STB (soon-to-be) video uploads and streaming!)
 
 ## About the Creator:
-WatchTyme's creator (![https://youtube.com/@Stilry](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white))
+WatchTyme's creator (![https://youtube.com/@Stilry](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)) is someone who got an idea during a VirtualRook stream ![https://youtube.com/@VirtualRook](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) (you're welcome for the advertising Rook) and decided to start this. Nothing special.
 
 ## WatchTyme's Progress:
-![](https://progress-bar.dev/0%) (Login)
+🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ (Login)
 <br>
-![0%](https://progress-bar.dev/0%) (Signup)
+🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ (Signup)
 <br>
-![0%](https://progress-bar.dev/0%) (Live Chat System)
+⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ (Live Chat System)
 <br>
-![0%](https://progress-bar.dev/0%) (Video Uploads)
+⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ (Video Uploads)
 <br>
-![0%](https://progress-bar.dev/0%) (Streaming)
+⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ (Streaming)
